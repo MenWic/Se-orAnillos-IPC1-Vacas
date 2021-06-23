@@ -3,3 +3,5 @@
 javac -d ./build ./src/*.java
 ## Ejecutar 
 java -cp ./build Ejecutable
+## Compilar con Ant y guardar en build
+ant run
